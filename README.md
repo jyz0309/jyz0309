@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Distributed Databases, Haskell.
 - 💬 Ask me about Databases, Linux, backend development.
 - 📫 How to reach me: a1kaid@foxmail.com
-- 😄 Pronouns:I'm intrested in trying new things and learning cool things.
+- 😄 Pronouns:I'm intrested in trying cool things and learning new things.
