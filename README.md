@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=jyz0309)
 
 - 🔭 I’m working on PingCAP for TiDB Product.
 - 🌱 I’m learning Distributed Systems and Distributed Database.
