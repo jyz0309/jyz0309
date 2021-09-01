@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on PingCAP for TiDB Product.
 - 🌱 I’m learning Distributed Systems and Distributed Database.
-- 🤔 I have contributed code (not doc or typo) to TiDB/TiKV, Kubenetes, Nebula. :)
+- 🤔 I have contributed code (not doc or typo) to TiDB/TiKV, Kubenetes, Datafuse. :)
 - 🔭 I am interested in Cpp, Distributed Systems.
 - 💬 Ask me about Cpp, Go, Python, Rust, Databases, I will try my best to answer.
 - 📫 How to reach me: a1kaid@foxmail.com
