@@ -10,5 +10,3 @@
 - 📫 How to reach me: a1kaid@foxmail.com
 - 😄 Actually I am writing my own database. And I want to make it as an experimental database.
 - 😍 I am trying to love Rust.
-
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jyz0309/langs?time_range=one_year&compact=True&theme=classic)
